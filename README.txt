@@ -1,0 +1,1 @@
+yaoweibin html5 slides (steal from http://code.google.com/p/html5slides/)
